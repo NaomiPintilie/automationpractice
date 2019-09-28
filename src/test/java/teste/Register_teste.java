@@ -95,4 +95,5 @@ public class Register_teste extends Basetest {
 
 }
 
-// buna ziua
+// buna ziua sunt aici
+
